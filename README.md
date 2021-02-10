@@ -13,5 +13,5 @@ Hi, my name is Kelvin Martinez, System analyser
 - 🏠 Barranquilla, Atlantico: Cra 19 #115-21
 
 ## Contact Me :
-[Facebook](https://www.facebook.com/kmr19972015)
-[LinkedIn](https://www.linkedin.com/in/kelvin-martinez-ramos-3817b01ab)
+- [Facebook](https://www.facebook.com/kmr19972015)
+- [LinkedIn](https://www.linkedin.com/in/kelvin-martinez-ramos-3817b01ab)
