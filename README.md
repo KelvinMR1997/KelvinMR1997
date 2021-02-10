@@ -1,7 +1,4 @@
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
-Inline-style: 
-![alt text](https://assets2.lottiefiles.com/private_files/lf30_BX96aR.json "Logo Title Text 1")
+![Hacker](https://github.com/KelvinMR1997/KelvinMR1997/blob/main/hacker.png)
 
 ## Hi there 👋
 
