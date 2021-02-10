@@ -1,4 +1,4 @@
-![Hacker](https://github.com/KelvinMR1997/KelvinMR1997/blob/main/hacker.png)
+![Hacker](https://github.com/KelvinMR1997/KelvinMR1997/blob/main/img/code-debug.gif)
 
 ## Hi there 👋
 
