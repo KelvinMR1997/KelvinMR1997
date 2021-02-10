@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 
 **KelvinMR1997/KelvinMR1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,5 @@ Hi, my name is Kelvin Martinez, System analyser
 - 🏠 Barranquilla, Atlantico: Cra 19 #115-21
 
 ## Contact Me :
-[I'm an inline-style link](https://www.google.com)
+[Facebook](https://www.facebook.com/kmr19972015)
+[LinkedIn](https://www.linkedin.com/in/kelvin-martinez-ramos-3817b01ab)
