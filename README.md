@@ -11,14 +11,14 @@ Hi, my name is Kelvin Martinez, System analyser and web developer
 - 🏠 Barranquilla, Atlantico: Cra 19 #115-21
 
 ## SKILLS
--PHP
--LARAVEL
--MYSQL
--HTML
--CSS
--JS
--NODEJS
--POSTMAN USAGE
+- PHP
+- LARAVEL
+- MYSQL
+- HTML
+- CSS
+- JS
+- NODEJS
+- POSTMAN USAGE
 
 
 ## Contact Me :
