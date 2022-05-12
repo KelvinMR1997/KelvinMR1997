@@ -11,16 +11,15 @@ Hi, my name is Kelvin Martinez, System analyser and web developer
 - 🏠 Barranquilla, Atlantico: Cra 19 #115-21
 
 ## SKILLS
-- PHP
-- LARAVEL
+- REACT JS
+- NODE JS
 - MYSQL
 - HTML
 - CSS
 - JS
-- NODEJS
+- POSTGRESS
 - POSTMAN USAGE
 
 
 ## Contact Me :
-- [Facebook](https://www.facebook.com/kmr19972015)
 - [LinkedIn](https://www.linkedin.com/in/kelvin-martinez-ramos-3817b01ab)
